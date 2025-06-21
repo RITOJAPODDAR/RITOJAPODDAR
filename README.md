@@ -58,17 +58,8 @@
 
 ---
 
-### 📈 Contribution Activity
-<p align="center">
-  <a href="https://github.com/RITOJAPODDAR/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RITOJAPODDAR&theme=react-dark" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
----
-
 ### ✨ Quote I Live By
-> “Keep your curiosity sharp and your code cleaner.” ✨
+> “Build with purpose. Learn with intention.” ✨
 
 ---
 
@@ -77,3 +68,5 @@
 ![Pythonista](https://img.shields.io/badge/Python-Powered-blue)
 ![Data Nerd](https://img.shields.io/badge/Data%20Nerd-Yes!-yellowgreen)
 ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-orange)
+![Shutterbug](https://img.shields.io/badge/Photography-Shutterbug-ffcc00?style=flat-square&logo=camera&logoColor=black)
+
