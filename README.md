@@ -1,72 +1,66 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3djZjFtMW9sZHE0Zm81Y2V5enRzZDZwcWUwb2VnZnkwbXphdHVjMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ5ejhyczdteWs3d2dnNWQyN29hdDdveG0wMmZnMW5zbHBqbW9rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
 
-<h1 align="center">Hola! 👋, Ms. Ritoja Poddar here ;)</h1>
-<h3 align="center">📂 From 'Hello World' to Real-World Projects | Developer. Dreamer. Doer.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RITOJAPODDAR&label=Profile%20views&color=0e75b6&style=flat" alt="ritojapoddar" />
-</p>
+<h1 align="center">Hola! Ritoja Poddar here🚀✨</h1>
+<h3 align="center">Computer Science Graduate🧠 | Data & AI Enthusiast 📈| Lifelong Learner🏆</h3>
 
 ---
 
-### 🌱 Currently Working On
-- Sharpening my data analytics skills to unlock smarter solutions 📊
-- Training deep learning models for thyroid cancer detection 🧠
-- Writing about real-world data challenges on Medium ✍️
+### 👋 About Me
+- 🎓 Recent **Computer Science graduate** (KIIT University), passionate about data-driven solutions and automation.
+- 💡 Experience in **full-stack dev**, **data analytics**, and **AI/ML**.
+- 📈 Passion for working on meaningful projects that simplify real-world problems.
+- ✨ Motto: *“Build with purpose. Learn with intention.”*
 
 ---
 
-### 📫 Connect with Me
-- Portfolio: [GitHub Profile](https://github.com/RITOJAPODDAR)
-- Medium: [@poddarritoja](https://medium.com/@poddarritoja)
-- Email: **poddarritoja@gmail.com**
-- Resume: [View My Resume](https://drive.google.com/file/d/1flYr6TZyL1991xZGafyYnp1vTa8DU59A/view?usp=sharing)
-- ⚡ Fun Fact: I love capturing portraits, modelling, and of course — North Indian food! 🍛📸
+### 🔧 Technical Skills
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
+
+**Data & Analytics:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi) 
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas) 
+![Seaborn](https://img.shields.io/badge/Seaborn-018E8E?style=flat-square)
+
+**Web & Backend:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
+**Cloud & AI Tools:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) 
+![Generative AI](https://img.shields.io/badge/Generative_AI-FFB116?style=flat-square) 
+
+**Version Control:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-### 🌐 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/ritoja-poddar-16r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/share/16negnympr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/shutterbug_._nari_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://medium.com/@poddarritoja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/poddarritoja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ritoja_poddar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/poddarrco39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
-</p>
+### 📂 Projects
+- 🧠 **Thyroid Disease Detection (CNN + TensorFlow)** – Improved model accuracy with data augmentation.
+- 🎮 **AI-Powered Snake Game (Python)** – Implemented BFS, DFS & greedy algorithms.
+- 🔐 **Quantum Threat Analysis (STRIDE & PASTA)** – Identified vulnerabilities in quantum computing.
 
 ---
 
-### 💻 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,django,mysql,mongodb,git,github,firebase,tensorflow,pandas,seaborn,azure,aws" />
-</p>
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritoja--poddar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritoja-poddar-16r/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium)](https://medium.com/@poddarritoja)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2CBB76?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/poddarritoja)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/ritoja_poddar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge)](https://auth.geeksforgeeks.org/user/poddarrco39)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITOJAPODDAR&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITOJAPODDAR&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITOJAPODDAR&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Quote I Live By
-> “Build with purpose. Learn with intention.” ✨
-
----
-
-### 🏷️ Fun Badges
-![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-ff69b4)
-![Pythonista](https://img.shields.io/badge/Python-Powered-blue)
-![Data Nerd](https://img.shields.io/badge/Data%20Nerd-Yes!-yellowgreen)
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-orange)
-![Shutterbug](https://img.shields.io/badge/Photography-Shutterbug-ffcc00?style=flat-square&logo=camera&logoColor=black)
-
+> ✨ *“Build with purpose. Learn with intention.”* ✨
