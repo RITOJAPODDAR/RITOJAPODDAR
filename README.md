@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ5ejhyczdteWs3d2dnNWQyN29hdDdveG0wMmZnMW5zbHBqbW9rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img height="150" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB0ODN0dmIybGdmdTR1eHkzb3BoNXNiaWwxeHdtNml6cGI1MTdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
 <h1 align="center">Hola! Ritoja Poddar here🚀✨</h1>
