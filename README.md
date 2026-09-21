@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB0ODN0dmIybGdmdTR1eHkzb3BoNXNiaWwxeHdtNml6cGI1MTdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img height="150" src= "ai-artwork-video_4abe1e02-7acf-4569-b53f-d6ae77580814 (1).gif" />
 </div>
 
 <h1 align="center">Hey Ritoja Poddar here🚀✨</h1>
