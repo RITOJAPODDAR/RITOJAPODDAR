@@ -2,7 +2,7 @@
   <img height="150" src= "ai-artwork-video_4abe1e02-7acf-4569-b53f-d6ae77580814 (1).gif" />
 </div>
 
-<h1 align="center">Hey Ritoja Poddar here🚀✨</h1>
+<h1 align="center">Welcome!🚀✨</h1>
 <h3 align="center">Data & AI Enthusiast 📈| Lifelong Learner🏆</h3>
 
 ---
