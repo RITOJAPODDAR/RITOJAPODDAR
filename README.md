@@ -2,13 +2,14 @@
   <img height="150" src= "ai-artwork-video_4abe1e02-7acf-4569-b53f-d6ae77580814 (1).gif" />
 </div>
 
-<h1 align="center">Welcome!🚀✨</h1>
+<h1 align="center">Munching raw data🧮. Serving digestible insights🧠.</h1>
 <h3 align="center">Data & AI Enthusiast 📈| Lifelong Learner🏆</h3>
 
 ---
 
 ### 👋 About Me
-- 🎓 Recent **Computer Science graduate** (KIIT University), passionate about data-driven solutions and automation.
+- 💼 **Associate at Genpact.**
+- 🎓 **Computer Science graduate** (KIIT University), passionate about data-driven solutions and automation.
 - 💡 Experience in **full-stack dev**, **data analytics**, and **AI/ML**.
 - 📈 Passion for working on meaningful projects that simplify real-world problems.
 - ✨ Motto: *“Build with purpose. Learn with intention.”*
